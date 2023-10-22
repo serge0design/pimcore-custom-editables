@@ -16,7 +16,6 @@ class CustomEditablesBundle extends AbstractPimcoreBundle
     public function getEditmodeJsPaths(): array
     {
         return [
-//            '/bundles/customeditables/js/ckeditor-config.js',
             '/bundles/customeditables/js/pimcore/document/editables/color_picker.js',
             '/bundles/customeditables/js/pimcore/document/editables/simple_output.js',
             '/bundles/customeditables/js/pimcore/document/editables/radio_group.js',
