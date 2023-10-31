@@ -53,15 +53,4 @@ class CustomEditablesBundle extends AbstractPimcoreBundle
         return self::PACKAGE_NAME;
     }
 
-    public function getDescription()
-    {
-        return 'A simple collection of editables.';
-    }
-
-    public function getVersion()
-    {
-        return '1.0.0';
-    }
-
-
 }
