@@ -11,7 +11,7 @@ class CustomEditablesBundle extends AbstractPimcoreBundle
 {
 //    use PackageVersionTrait;
 //
-    public const PACKAGE_NAME = ' serge0design/pimcore-custom-editables-bundle';
+    public const PACKAGE_NAME = ' serge0design/pimcore-custom-editables';
 
     public function getEditmodeJsPaths(): array
     {
